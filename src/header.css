@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top{
+    position: sticky;
+     height: 100px;
+     width: 100vw;
+     background-color: rgb(54, 198, 193);
+     display: flex;
+}
+.title{
+     color: black;
+     font-size: 25px;
+     padding: 10px;
+     position: absolute;
+     top: 25px;
+     left: 150px;
+     text-decoration: none;
+     cursor: pointer;
+}
+.logo{
+    height: 40px;
+    margin-top: 30px;
+    position: absolute;
+    left: 90px;
+    border-radius: 50px;
+    cursor: pointer;
+  }
